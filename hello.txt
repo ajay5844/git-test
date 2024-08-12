@@ -1,1 +1,1 @@
-Hi, This ais a test file.
+This is a test file. and being read by terraform
